@@ -1,0 +1,45 @@
+
+TraineeName: Abdullah Al Foysal
+ID: 1246618
+Project On: Online Sports Goods Shop
+Task Done:
+1. CRUD Operation 
+2. Ajax Operation 
+3. View Model(Operation)
+4. Partial View 
+5. Custom Routing 
+6. Authentication
+7. Data Annotation
+8. Validation 
+9. Filtering, Sorting and Pagination 
+10. Asynchronous Operation 
+11. Store Procedure 
+12. Loading (Lazy, Eger, Explicit)
+13. Cascading Delete 
+
+
+
+
+
+Email                                                                 Password                                                                                       Role
+foysal@gmail.com                                             Foysal@123                                                                                 Admin
+akib@gmail.com                                                Akib@123                                                                                    Manager
+hakim@gmail.com                                             Hakim@123                                                                                 General User
+
+
+
+Product
+Create:Manager
+Edit:Manager
+Delete:Admin
+
+Category
+Create:Admin,Manager
+Edit:Admin,Manager
+Delete:Admin
+
+
+ProductImage
+Create:Admin,Manager
+Edit:Admin,Manager
+Delete:Admin,Manager
